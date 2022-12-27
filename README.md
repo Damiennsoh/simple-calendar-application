@@ -16,7 +16,7 @@
  * https://damiennsoh.github.io/simple-calendar-application/
  
  ## Link to Github repository
- 
+ * https://github.com/Damiennsoh/simple-calendar-application
  
  ## Screenshots: ![image](
  
