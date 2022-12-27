@@ -12,6 +12,11 @@
  ## License
  Refer to the repository and the MIT README.md file
  
- ## Test
- * Comming soon....
+ ## Test (Deployed Application)
+ * https://damiennsoh.github.io/simple-calendar-application/
+ 
+ ## Link to Github repository
+ 
+ 
+ ## Screenshots: ![image](
  
